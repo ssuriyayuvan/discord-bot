@@ -22,8 +22,8 @@ $ npm start
 
 | Plugin | README |
 | ------ | ------ |
-| Dotenv | [https://www.npmjs.com/package/dotenv][PlDb] |
-| discord.js | [https://www.npmjs.com/package/discord.js][PlGh] |
-| lodash | [https://www.npmjs.com/package/lodash][PlGd] |
-| googleapis | [https://www.npmjs.com/package/googleapis][PlOd] |
-| redis | [https://www.npmjs.com/package/redis][PlMe] |
+| Dotenv | [https://www.npmjs.com/package/dotenv] |
+| discord.js | [https://www.npmjs.com/package/discord.js] |
+| lodash | [https://www.npmjs.com/package/lodash] |
+| googleapis | [https://www.npmjs.com/package/googleapis] |
+| redis | [https://www.npmjs.com/package/redis] |
